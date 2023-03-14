@@ -2,7 +2,7 @@
   "name": "practice-react",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://pranaydwivedi444.github.io/Expense-Tracker",
+  "homepage": "https://pranaydwivedi444.github.io/Expense-Tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
